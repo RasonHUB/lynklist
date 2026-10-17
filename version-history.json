@@ -1,0 +1,123 @@
+[
+  {
+    "version": "1.0.15",
+    "date": "2026-10-17",
+    "timestamp": "2026-10-17T21:51:30.800Z",
+    "title": "Add in-app account profile editor",
+    "changes": [
+      "Add in-app account profile editor"
+    ]
+  },
+  {
+    "version": "1.0.14",
+    "date": "2026-10-17",
+    "timestamp": "2026-10-17T13:06:06.441Z",
+    "title": "Fix account settings link to the RangelLab portal",
+    "changes": [
+      "Fix account settings link to the RangelLab portal",
+      "Update generated List history attribution to RangelLab"
+    ]
+  },
+  {
+    "version": "1.0.13",
+    "date": "2026-10-17",
+    "timestamp": "2026-10-17T13:05:33.726Z",
+    "title": "Update List attribution to RangelLab brand",
+    "changes": [
+      "Update List attribution to RangelLab brand",
+      "Replace legacy RS badge with RL",
+      "Point List account links to RangelLab portal"
+    ]
+  },
+  {
+    "version": "1.0.12",
+    "date": "2026-10-17",
+    "timestamp": "2026-10-17T12:17:11.289Z",
+    "title": "Update List deployment target to RangelLab",
+    "changes": [
+      "Update List deployment target to RangelLab"
+    ]
+  },
+  {
+    "version": "1.0.11",
+    "date": "2026-10-17",
+    "timestamp": "2026-10-17T12:06:45.170Z",
+    "title": "Point List account links to RangelLab portal",
+    "changes": [
+      "Point List account links to RangelLab portal"
+    ]
+  },
+  {
+    "version": "1.0.10",
+    "date": "2026-10-17",
+    "timestamp": "2026-10-17T11:55:50.331Z",
+    "title": "Update RangelLab references",
+    "changes": [
+      "Update RangelLab references"
+    ]
+  },
+  {
+    "version": "1.0.9",
+    "date": "2026-10-17",
+    "timestamp": "2026-10-17T11:55:33.925Z",
+    "title": "Update brand references to RangelLab",
+    "changes": [
+      "Update brand references to RangelLab",
+      "Update portal brand references to RangelLab"
+    ]
+  },
+  {
+    "version": "1.0.8",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T23:10:25.767Z",
+    "title": "Simplifica monograma para RS (list-icon)",
+    "changes": [
+      "Simplifica monograma para RS (list-icon)"
+    ]
+  },
+  {
+    "version": "1.0.7",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T22:47:12.870Z",
+    "title": "Atualiza monograma do ícone do List para RSH",
+    "changes": [
+      "Atualiza monograma do ícone do List para RSH"
+    ]
+  },
+  {
+    "version": "1.0.6",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T14:07:16.656Z",
+    "title": "Alinhar o histórico automático de alterações",
+    "changes": [
+      "Alinhar o histórico automático de alterações"
+    ]
+  },
+  {
+    "version": "1.0.5",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T13:19:01.364Z",
+    "title": "Correct version history generator syntax",
+    "changes": [
+      "Correct version history generator syntax"
+    ]
+  },
+  {
+    "version": "1.0.4",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T13:17:55.267Z",
+    "title": "Correct semantic version script and tests",
+    "changes": [
+      "Correct semantic version script and tests"
+    ]
+  },
+  {
+    "version": "1.0.3",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T00:00:00.000Z",
+    "title": "Versão de referência para o padrão semântico",
+    "changes": [
+      "Registro inicial do histórico no padrão MAJOR.MINOR.PATCH."
+    ]
+  }
+]
